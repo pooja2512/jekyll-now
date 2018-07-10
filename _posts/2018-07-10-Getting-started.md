@@ -3,8 +3,6 @@ layout: post
 title: Start of Something New!! ...
 ---
 
-![computer](https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849825_960_720.jpg)
-
 ![abc](https://cdn.pixabay.com/photo/2017/11/02/10/48/person-2910695_960_720.jpg)
 
 **Hello World!!.Welcome to my journey in the field of Data Analysis.**

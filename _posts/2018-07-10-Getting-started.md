@@ -5,6 +5,8 @@ title: Start of Something New!! ...
 
 ![computer](https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849825_960_720.jpg)
 
+![abc](C:\Users\pooja\Downloads\1_By1Z2kuDX18oNCoTncaTfw.png)
+
 **Hello World!!.Welcome to my journey in the field of Data Analysis.**
 
 **1. Now you might wonder why I decided to become Data Analyst.**

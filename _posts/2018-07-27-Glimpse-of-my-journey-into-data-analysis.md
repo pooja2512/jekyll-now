@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sneak into my Journey of Data Analysis..!
+title: Glimpse of my Journey into Data Analysis..!!
 ---
 
 ![abc](https://image.ibb.co/d6Cp9T/1_By1_Z2ku_DX18o_NCo_Tnca_Tfw.png)
@@ -15,8 +15,11 @@ We all do make resolutions every new year and by the end of first of month we fo
 class Hello 
 {
   
-  public static void main( String args[] ) {
+  public static void main( String args[] ) 
+  {
+     
      System.out.println(" Hello World ");
+  
   }
  }
 

@@ -3,19 +3,24 @@ layout: post
 title: Sneak into my Journey of Data Analysis..!
 ---
 
-![abc](https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/uploads/2015/12/Creating-your-personal-brand.jpg)
+![abc](https://image.ibb.co/d6Cp9T/1_By1_Z2ku_DX18o_NCo_Tnca_Tfw.png)
 
 I completed bachelors in electrical engineering back in 2015.A graduate with no job offer from College,the reason behind no companies visited my college.I struggled enough to grab my first job as Management trainee.But surprisingly I wasn’t happy with work I was doing.Everything lasted for 2 years.
 
 I think you probably need to pick something you find personally exciting because the road is long. If you hate the work the journey won’t seem like it’s worth taking.
 
-We all do make resolutions every new year and by the end of first of month we forget.But this time in 2018 I took firm decision I  wanted to find something that resonates with me.Somehow one day my brother asked to try learning python.I agreed and continued.While searching for advantage of python I stumbled upon one of the example below
+We all do make resolutions every new year and by the end of first of month we forget.But this time in 2018 I took firm decision I  wanted to find something that resonates with me.I decided to chane my career.Somehow one day my brother asked to try learning python.I agreed and continued.While searching for advantage of python I stumbled upon one of the example below
 
 ## Java
-class Hello {
+class Hello 
+{
+  
   public static void main( String args[] ) {
+     
      System.out.println(" Hello World ");
+  
   }
+
 }
 
 

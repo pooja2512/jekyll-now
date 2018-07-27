@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # Sneak into my Journey of Data Analysis..!
+title: Sneak into my Journey of Data Analysis..!
 ---
 
 

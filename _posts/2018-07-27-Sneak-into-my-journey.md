@@ -3,7 +3,7 @@ layout: post
 title: Sneak into my Journey of Data Analysis..!
 ---
 
-
+![abc](https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/uploads/2015/12/Creating-your-personal-brand.jpg)
 
 I completed bachelors in electrical engineering back in 2015.A graduate with no job offer from College,the reason behind no companies visited my college.I struggled enough to grab my first job as Management trainee.But surprisingly I wasn’t happy with work I was doing.Everything lasted for 2 years.
 

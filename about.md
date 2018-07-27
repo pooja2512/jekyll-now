@@ -4,11 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Determined Data Analyst with Passion for Exploring and learning new technologies.This is my journey to improve my skills and grow in my understanding of how to do that.
 
 ### Contact me
 

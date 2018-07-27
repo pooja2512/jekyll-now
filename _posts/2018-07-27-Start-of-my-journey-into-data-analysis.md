@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Glimpse of my Journey into Data Analysis..!!
+title: Start of my Journey into Data Analysis..!!
 ---
 
 ![abc](https://image.ibb.co/d6Cp9T/1_By1_Z2ku_DX18o_NCo_Tnca_Tfw.png)
@@ -9,18 +9,19 @@ I completed bachelors in electrical engineering back in 2015.A graduate with no 
 
 I think you probably need to pick something you find personally exciting because the road is long. If you hate the work the journey won’t seem like it’s worth taking.
 
-We all do make resolutions every new year and by the end of first of month we forget.But this time in 2018 I took firm decision I  wanted to find something that resonates with me.I decided to chane my career.Somehow one day my brother asked to try learning python.I agreed and continued.While searching for advantage of python I stumbled upon one of the example below
+We all do make resolutions every new year and by the end of first of month we forget.But this time in 2018 I took firm decision I  wanted to find something that resonates with me.I decided to change my career.Somehow one day my brother asked to try learning python.I agreed and continued.While searching for advantage of python I stumbled upon one of the example below
 
 ## Java
 class Hello 
 {
   
   public static void main( String args[] ) 
+  
   {
-     
      System.out.println(" Hello World ");
   
   }
+  
  }
 
 

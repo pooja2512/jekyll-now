@@ -5,11 +5,13 @@ title: Start of my Journey into Data Analysis..!!
 
 ![abc](https://image.ibb.co/d6Cp9T/1_By1_Z2ku_DX18o_NCo_Tnca_Tfw.png)
 
-I completed bachelors in electrical engineering back in 2015.A graduate with no job offer from College,the reason behind no companies visited my college.I struggled enough to grab my first job as Management trainee.But surprisingly I wasn’t happy with work I was doing.Everything lasted for 2 years.
+I completed a bachelors in electrical engineering back in 2015. A graduate with no job offer from College, the reason behind no companies visited my college. I struggled enough to grab my first job as Management Trainee. But surprisingly I wasn’t happy with the work I was doing. Everything lasted for 2 years.
+
+It was a time when I was working on AutoCAD and DIALux I heard about analytics. I discovered that there is lots of fascinating stuff that can be analyzed across a number of industry verticals, and developed a tremendous interest right then.
 
 I think you probably need to pick something you find personally exciting because the road is long. If you hate the work the journey won’t seem like it’s worth taking.
 
-We all do make resolutions every new year and by the end of first of month we forget.But this time in 2018 I took firm decision I  wanted to find something that resonates with me.I decided to change my career.Somehow one day my brother asked to try learning python.I agreed and continued.While searching for advantage of python I stumbled upon one of the example below
+While searching for the advantage of python I stumbled upon one of the examples below.
 
 ## Java
 class Hello 

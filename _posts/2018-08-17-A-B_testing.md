@@ -1,3 +1,8 @@
+---
+layout: post
+title: A/B testing
+---
+
 I have got the opportunity to work on a project to help company decide whether to launch a new page on their website or keep the old page.
 I’ll do this by a widely practised experiment called A/B testing.
 

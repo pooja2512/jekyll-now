@@ -3,10 +3,9 @@ layout: post
 title: How I performed A/B test for an E-Commerce Website
 ---
 
-![A/B test header image](https://image.ibb.co/nwMwHe/office_3295556_1920.jpg)
+![A/B test header image](https://image.ibb.co/ih95Az/startup_593327_1920.jpg)
 
-I have got the opportunity to work on a project to help company decide whether to launch a new page on their website or keep the old page.
-I’ll do this by a widely practised experiment called A/B testing.
+I have got the opportunity to work on a project to help company decide whether to launch a new page on their website or keep the old page. I decided do this by a widely practised experiment called A/B testing.
 
 ## What is A/B Testing?
 
@@ -14,9 +13,9 @@ A/B tests are used to test changes on a web page by running an experiment where 
 
 A/B testing is very much like hypothesis testing with the following hypotheses:
 
-**Null Hypothesis** : The new version is no better, or even worse, than the old version.
+> **Null Hypothesis** : The new version is no better, or even worse, than the old version.
 
-**Alternative Hypothesis** : The new version is better than the old version.
+> **Alternative Hypothesis** : The new version is better than the old version.
 
 If we fail to reject the null hypothesis, the results would suggest keeping the old version. If we reject the null hypothesis, 
 the results would suggest launching the change.

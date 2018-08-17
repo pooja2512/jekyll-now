@@ -66,6 +66,8 @@ Our main aim is to find if the user has converted or not. Since we have only two
 
 Looking at the probability value which greater than our alpha level of 5% We have statistical evidence that conversion rate for new page is not different from the new page.
 
+In the larger picture, based on the available information, we do not have sufficient evidence to suggest that the new page results in more conversions than the old page.
+
 **Final Thoughts:**
 
 A/B testing is essentially an experiment where two or more variants of a page are shown to users at random, and statistical analysis is used to determine which variation performs better for a given conversion goal. By performing probability, p-value calculation, Hypothesis tests and regression I come up to a conclusion that conversion rate for the old page was not superior than the new page.

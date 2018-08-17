@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I performed A/B test for a E-Commerce Website
+title: How I performed A/B test for an E-Commerce Website
 ---
 
 I have got the opportunity to work on a project to help company decide whether to launch a new page on their website or keep the old page.
@@ -50,25 +50,12 @@ with bootstrapping.
 
 I assumed that the old page is better unless the new page proves to be definitely better at a Type I error rate of 5%.
 
-**Null Hypothesis H0** : **$p_{new}$** <= **$p_{old}$**
+**Null Hypothesis H0 : p_new <= p_old**
 
-**Alternative Hypothesis H1** : **$p_{new}$** > **$p_{old}$**
+**Alternative Hypothesis H1 : p_new > p_old**
 
 Using bootstrapping approach and p-value calculation I got the probability value of 0.906 which suggest that we have failed to 
 reject the null.
-
-Meaning- Z-test implies 
-
-a hypothesis test which ascertains if the means of two datasets are different from each other when 
-
-variance is given.
-
-Population variance - Known
-
-Sample Size - Large(n > 30)
-
-Critical Value is larger than Z-score which again suggest us that we have failed to reject the null & that there is 
-evidence of conversion for new page is less or equal to the old page.
 
 **Regression approach**
 
@@ -77,6 +64,22 @@ Our main aim is to find if the user has converted or not. Since we have only two
 ![abc](https://image.ibb.co/intCOK/logistic_reg.png)
 
 Looking at the probability value which greater than our alpha level of 5% We have statistical evidence that conversion rate for new page is not different from the new page.
+
+**Final Thoughts:**
+
+A/B testing is essentially an experiment where two or more variants of a page are shown to users at random, and statistical analysis is used to determine which variation performs better for a given conversion goal. By performing probability, p-value calculation, Hypothesis tests and regression I come up to a conclusion that conversion rate for the old page was not superior than the new page.
+But there are many factors to consider when designing an A/B test and drawing conclusions based on its results. To conclude, here are some common ones to consider.
+ 
+- Novelty effect and change aversion when existing users first experience a change.
+
+- Sufficient traffic and conversions to have significant and repeatable results
+
+- Best metric choice for making the ultimate decision (eg. measuring revenue vs. clicks).
+
+- Long enough run time for the experiment to account for changes in behavior based on time of day/week or seasonal events.
+
+- Practical significance of a conversion rate (the cost of launching a new feature vs. the gain from the increase in conversion).
+
 
 
 

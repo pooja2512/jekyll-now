@@ -5,7 +5,7 @@ title: How I performed A/B test for an E-Commerce Website
 
 ![A/B test header image](https://image.ibb.co/ih95Az/startup_593327_1920.jpg)
 
-I have got the opportunity to work on a project to help company decide whether to launch a new page on their website or keep the old page. I decided do this by a widely practised experiment called A/B testing.
+I have got the opportunity to work on a project to help the company decide whether to launch a new page on their website or keep the old page. I decided to do this by a widely practiced experiment called A/B testing.
 
 ## What is A/B Testing?
 
@@ -22,7 +22,7 @@ the results would suggest launching the change.
 
 ### Let's start with the experiment:
 
-I was testing around 295000 users some of them were landed on new page and others on old page.
+I was testing around 295000 users some of them were landed on the new page and others on the old page.
 
 A/B test has few drawbacks one of them is:
 
@@ -41,15 +41,14 @@ I approached A/B testing by performing
 
 **Probability**
 
-Probability of conversion rate for treatment group was 0.1188 and for control group it was 0.1203. Conversion rate for the treatment group was less than control group. But to be sure that the obtained results are not just by chance I performed bootstrapping.
+The probability of conversion rate for the treatment group was 0.1188 and for the control group, it was 0.1203. The conversion rate for the treatment group was less than the control group. But to be sure that the obtained results are not just by chance I performed bootstrapping.
 
 **Hypothesis Testing**
 
 One of our class instructors suggests that bootstrapping can be used as a substitute for any statistical test that we would use in
-traditional statistics to talk about populations. This includes t-tests, F-tests, chi-squared - you name it, apparently we can do it 
-with bootstrapping.
+traditional statistics to talk about populations. This includes z-tests, t-tests, F-tests, chi-squared - you name it, apparently, we can do it with bootstrapping.
 
-I assumed that the old page is better unless the new page proves to be definitely better at a Type I error rate of 5%.
+I assumed that the old page is better unless the new page proves to be better at a Type I error rate of 5%.
 
 **Null Hypothesis H0 : p_new <= p_old**
 
@@ -60,17 +59,18 @@ reject the null.
 
 **Regression approach**
 
-Our main aim is to find if the user has converted or not. Since we have only two outcomes I decided to perform logistic regression.
+Our main aim is to find if the user has converted or not. Considering we have only two outcomes I decided to perform a logistic regression.
 
 ![abc](https://image.ibb.co/intCOK/logistic_reg.png)
 
-Looking at the probability value which greater than our alpha level of 5% We have statistical evidence that conversion rate for new page is not different from the new page.
-
-In the larger picture, based on the available information, we do not have sufficient evidence to suggest that the new page results in more conversions than the old page.
+Looking at the probability value which greater than our alpha level of 5%. We have statistical evidence that the conversion rate for the old page is not different from the new page.
 
 **Final Thoughts:**
 
-A/B testing is essentially an experiment where two or more variants of a page are shown to users at random, and statistical analysis is used to determine which variation performs better for a given conversion goal. By performing probability, p-value calculation, Hypothesis tests and regression I come up to a conclusion that conversion rate for the old page was not superior than the new page.
+In the larger picture, based on the available information, we do not have sufficient evidence to suggest that the new page results in more conversions than the old page. 
+
+A/B testing is essentially an experiment where two or more variants of a page are shown to users at random, and statistical analysis is used to determine which variation performs better for a given conversion goal.
+
 But there are many factors to consider when designing an A/B test and drawing conclusions based on its results. To conclude, here are some common ones to consider.
  
 - Novelty effect and change aversion when existing users first experience a change.

@@ -74,7 +74,7 @@ evidence of conversion for new page is less or equal to the old page.
 
 Our main aim is to find if the user has converted or not. Since we have only two outcomes I decided to perform logistic regression.
 
-[abc](https://image.ibb.co/intCOK/logistic_reg.png)
+![abc](https://image.ibb.co/intCOK/logistic_reg.png)
 
 Looking at the probability value which greater than our alpha level of 5% We have statistical evidence that conversion rate for new page is not different from the new page.
 

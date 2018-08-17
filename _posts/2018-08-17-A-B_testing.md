@@ -3,6 +3,8 @@ layout: post
 title: How I performed A/B test for an E-Commerce Website
 ---
 
+![A/B test header image](https://image.ibb.co/nwMwHe/office_3295556_1920.jpg)
+
 I have got the opportunity to work on a project to help company decide whether to launch a new page on their website or keep the old page.
 I’ll do this by a widely practised experiment called A/B testing.
 
